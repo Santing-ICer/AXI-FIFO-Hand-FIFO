@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Mon Jun 23 02:49:21 2025
+[*]
+[dumpfile] "/home/ICer/AXI_FIFO/wave.vcd"
+[dumpfile_mtime] "Mon Jun 23 02:48:08 2025"
+[dumpfile_size] 8193
+[savefile] "/home/ICer/AXI_FIFO/hang_fifo_wave.gtkw"
+[timestart] 0
+[size] 2358 1083
+[pos] -1 -1
+*-16.322309 462100 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 229
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 307
+@28
+tb_hand_fifo.clk
+tb_hand_fifo.rst_n
+tb_hand_fifo.wr_en
+tb_hand_fifo.data_in_ready
+@25
+tb_hand_fifo.wr_data[7:0]
+@28
+tb_hand_fifo.rd_en
+tb_hand_fifo.data_out_valid
+@25
+tb_hand_fifo.rd_data[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
